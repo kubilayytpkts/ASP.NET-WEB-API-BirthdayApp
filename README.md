@@ -1,4 +1,5 @@
 # ASP.NET-WEB-API-BirthdayApp
+iki local host arasında WEB API ile veri aktarımı
 
 ![Wrb-api-](https://github.com/kubilayytpkts/ASP.NET-WEB-API-BirthdayApp/assets/119957098/35c55d3a-0bbc-4ef3-95dd-a3a8cefd4127)
 
